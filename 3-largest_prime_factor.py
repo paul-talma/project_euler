@@ -63,7 +63,5 @@ def largest_factor(n):
 
 
 if __name__ == "__main__":
-    k = 343567
-    print(factors(k))
-    print(unique_factors(k))
+    k = 600_851_475_143
     print(largest_factor(k))
